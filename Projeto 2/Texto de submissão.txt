@@ -1,0 +1,3 @@
+Foi construído outro modelo simples utilizando celula LSTM ao inves de GRU para coparar o resultado das duas, a LSTM foi melhor. Tambem testei o SGD como otimizador porém o resultado foi inferior e a convergencia foi muito mais demorada.
+Os hiper parametros (quantidade de epochs, batch size, quantidade de celulas nas camadas, learning rate) foram otimzados para obter um resultado melhor.
+A camada de Embedding do modelo final foi construída com 300 nós, conforme sugere alguns papers. E fiz alterações para incluir o encoder e decoder no modelo final.

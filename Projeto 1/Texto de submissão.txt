@@ -1,0 +1,5 @@
+Vale ressaltar que o projeto foi desenvolvido com a ajuda das seguintes bibliotecas:
+https://pomegranate.readthedocs.io/en/latest/index.html
+https://docs.python.org/3/tutorial/datastructures.html
+Bem como diversos fóruns na internet, e em especial um projeto no git hub:
+https://github.com/udacity/hmm-tagger/blob/master/HMM%20Tagger.ipynb
